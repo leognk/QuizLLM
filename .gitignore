@@ -1,0 +1,4 @@
+__pycache__/
+.vscode/
+models/
+test[0-9]*.py
