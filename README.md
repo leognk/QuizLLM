@@ -4,7 +4,7 @@ QuizLLM is a simple Python program that allows you to play a quiz in the command
 
 ## Requirements
 
-The LLM used is OpenHermes 2.5 - Mistral 7B, a state of the art open-source LLM whose weights are downloaded from Hugging Face:
+The LLM used is OpenHermes 2.5 - Mistral 7B, a state of the art open-source LLM (as of 2024/01/04) with weights downloaded from Hugging Face:
 * ~14 GB of disk storage
 * ~16 GB of RAM (tested on an RTX 3090)
   
