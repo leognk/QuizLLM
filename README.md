@@ -14,7 +14,7 @@ Although not tested, other LLMs would probably work as well.
 
 In the command line:
 * Run: `python3 main.py`
-* Enter a topic of your choice like "biology", "Harry Potter", or more original topics like "pi", "uncomfortable situations", "fear of dogs", or "anything". The possibilities are endless.
+* Enter a topic of your choice like "biology", "Harry Potter", or more original topics like "pi", "meaning of life", or "funny situations". The possibilities are endless.
 * Specify the number of questions you want.
 * Play.
 
